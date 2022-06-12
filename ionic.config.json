@@ -1,0 +1,7 @@
+{
+  "name": "twilio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
