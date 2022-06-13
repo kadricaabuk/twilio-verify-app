@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "twilio",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
